@@ -202,15 +202,4 @@ GET /dashboard/category-wise
 
 ---
 
-## 👨‍💻 Author
 
-**Akshat Saxena**
-
-* GitHub: https://github.com/akshat0502
-* LinkedIn: https://linkedin.com/in/akshat0502
-
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub and feel free to fork!
