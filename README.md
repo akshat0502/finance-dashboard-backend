@@ -13,9 +13,6 @@ This project demonstrates clean backend architecture, REST API design, data aggr
 * Fetch all records
 * Filter records by:
 
-  * Type (INCOME / EXPENSE)
-  * Category
-  * Date range
 
 ---
 
