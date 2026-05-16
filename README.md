@@ -1,3 +1,13 @@
+# 💰 Finance Dashboard Backend
+
+A Spring Boot-based backend system for managing financial records, user roles, and dashboard analytics.
+This project demonstrates clean backend architecture, REST API design, data aggregation, and filtering capabilities.
+
+---
+
+## 🚀 Features
+
+
 
 ### 🔹 Financial Records Management
 
